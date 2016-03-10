@@ -1,0 +1,18 @@
+body {
+	background-color: #151515;
+	margin: 0px;
+	padding: 0px;
+}
+
+.headerbar {
+	background-color: #2B0044;
+	margin: 0px;
+	padding: 0px;
+}
+
+.headertitle {
+	font-family: 'Roboto', sans-serif;
+	color: white;
+	padding: 20px;
+	margin: 0px;
+}
